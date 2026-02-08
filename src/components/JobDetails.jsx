@@ -8,7 +8,7 @@ export default function JobDetails() {
   const job = jobs.find((j) => j.id === parseInt(id));
 
   if (!job) return <h2>Job not found!</h2>;
-
+  
   return (
     <div className="details-container">
       <h1 className="details-main-title">Job Details</h1>
@@ -50,7 +50,8 @@ export default function JobDetails() {
           </div>
         </div>
 
-        <button className="apply-now-btn">Apply Now</button>
+        <button className="apply-now-btn" onClick={() => navigate('/success')}> Apply Now            
+        </button>
       </div>
     </div>
   );

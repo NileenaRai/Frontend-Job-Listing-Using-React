@@ -3,6 +3,7 @@ import JobList from "./components/JobList";
 import JobDetails from "./components/JobDetails";
 import SearchBar from "./components/SearchBar";
 import "./App.css";
+import SuccessPage from './components/SuccessPage';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
 
           {/* Details Page */}
           <Route path="/job/:id" element={<JobDetails />} />
+          <Route path="/success" element={<SuccessPage />} />
         </Routes>
       </div>
     </BrowserRouter>
