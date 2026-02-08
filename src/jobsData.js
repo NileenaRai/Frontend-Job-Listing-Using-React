@@ -6,6 +6,13 @@ export const jobs = [
     location: "Jhamsikhel, Lalitpur",
     type: "Internship",
     logo: "/logos/sterling.jpeg",
+    category: "Audit Firms / Tax Consultant",
+    level: "Entry Level",
+    vacancy: "[2]",
+    salary: "Rs. 25,000",
+    deadline: "Feb. 15, 2026",
+    description: "We're looking for a proactive and resourceful Operations In-Charge to keep Sterling Wells Nepal running like clockwork. You'll be the go-to person for everything...",
+    skills: ["Negotiation", "Administrative", "Management"]
   },
   {
     id: 2,
@@ -14,6 +21,13 @@ export const jobs = [
     location: "Sankhamul, Kathmandu",
     type: "Full-time",
     logo: "/logos/futureHub.jpeg",
+    category: "Audit Firms / Tax Consultant",
+    level: "Entry Level",
+    vacancy: "[2]",
+    salary: "Rs. 25,000",
+    deadline: "Feb. 15, 2026",
+    description: "We're looking for a proactive and resourceful Operations In-Charge to keep Sterling Wells Nepal running like clockwork. You'll be the go-to person for everything...",
+    skills: ["Negotiation", "Administrative", "Management"]
   },
   {
     id: 3,
@@ -22,6 +36,13 @@ export const jobs = [
     location: "Koteshwor, Kathmandu",
     type: "Remote",
     logo: "/logos/ctex.jpeg",
+    category: "Audit Firms / Tax Consultant",
+    level: "Entry Level",
+    vacancy: "[2]",
+    salary: "Rs. 25,000",
+    deadline: "Feb. 15, 2026",
+    description: "We're looking for a proactive and resourceful Operations In-Charge to keep Sterling Wells Nepal running like clockwork. You'll be the go-to person for everything...",
+    skills: ["Negotiation", "Administrative", "Management"]
   },
   {
     id: 4,
@@ -30,6 +51,13 @@ export const jobs = [
     location: "Sankhamul, Kathmandu",
     type: "Full-time",
     logo: "/logos/tech.png",
+    category: "Audit Firms / Tax Consultant",
+    level: "Entry Level",
+    vacancy: "[2]",
+    salary: "Rs. 25,000",
+    deadline: "Feb. 15, 2026",
+    description: "We're looking for a proactive and resourceful Operations In-Charge to keep Sterling Wells Nepal running like clockwork. You'll be the go-to person for everything...",
+    skills: ["Negotiation", "Administrative", "Management"]
   },
   
   {
@@ -39,6 +67,13 @@ export const jobs = [
     location: "Sankhamul, Kathmandu",
     type: "Full-time",
     logo: "/logos/tech.png",
+    category: "Audit Firms / Tax Consultant",
+    level: "Entry Level",
+    vacancy: "[2]",
+    salary: "Rs. 25,000",
+    deadline: "Feb. 15, 2026",
+    description: "We're looking for a proactive and resourceful Operations In-Charge to keep Sterling Wells Nepal running like clockwork. You'll be the go-to person for everything...",
+    skills: ["Negotiation", "Administrative", "Management"]
   },
   
   {
@@ -48,6 +83,13 @@ export const jobs = [
     location: "Sankhamul, Kathmandu",
     type: "Full-time",
     logo: "/logos/tech.png",
+    category: "Audit Firms / Tax Consultant",
+    level: "Entry Level",
+    vacancy: "[2]",
+    salary: "Rs. 25,000",
+    deadline: "Feb. 15, 2026",
+    description: "We're looking for a proactive and resourceful Operations In-Charge to keep Sterling Wells Nepal running like clockwork. You'll be the go-to person for everything...",
+    skills: ["Negotiation", "Administrative", "Management"]
   },
 
   {
@@ -57,6 +99,13 @@ export const jobs = [
     location: "Sankhamul, Kathmandu",
     type: "Full-time",
     logo: "/logos/tech.png",
+    category: "Audit Firms / Tax Consultant",
+    level: "Entry Level",
+    vacancy: "[2]",
+    salary: "Rs. 25,000",
+    deadline: "Feb. 15, 2026",
+    description: "We're looking for a proactive and resourceful Operations In-Charge to keep Sterling Wells Nepal running like clockwork. You'll be the go-to person for everything...",
+    skills: ["Negotiation", "Administrative", "Management"]
   },
   
   {
@@ -66,5 +115,12 @@ export const jobs = [
     location: "Sankhamul, Kathmandu",
     type: "Full-time",
     logo: "/logos/tech.png",
+    category: "Audit Firms / Tax Consultant",
+    level: "Entry Level",
+    vacancy: "[2]",
+    salary: "Rs. 25,000",
+    deadline: "Feb. 15, 2026",
+    description: "We're looking for a proactive and resourceful Operations In-Charge to keep Sterling Wells Nepal running like clockwork. You'll be the go-to person for everything...",
+    skills: ["Negotiation", "Administrative", "Management"]
   },
 ];
